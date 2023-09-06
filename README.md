@@ -2,7 +2,7 @@
 # BioNic Rust Servers
 
 - 👋 Hi, I’m @BionicRust
-- 🔥 Try Out Our 5x Moded Rust Server -> client.connect bionic.tkrsh.com
+- 🔥 Try Out Our 5x Modded Rust Server -> client.connect bionic.tkrsh.com
 - 🌱 Currently Under Development ...
 - ⚡ Join Our Discord -> https://discord.gg/SekKh9GmN3
 
